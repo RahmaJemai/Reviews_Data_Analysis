@@ -26,20 +26,6 @@
 </ul>
 <p>You can install them using the following command:</p>
 <pre><code>pip install pandas nltk transformers tensorflow</code></pre>
-    <h2>Contributing</h2>
-    <p>Contributions to this project are welcome! If you'd like to contribute, please follow these steps:</p>
-    <ol>
-        <li>Fork the repository on GitHub.</li>
-        <li>Create a new branch from the main branch:</li>
-        <pre><code>git checkout -b feature/new-feature</code></pre>
-        <li>Make your changes and commit them:</li>
-        <pre><code>git commit -am 'Add new feature'</code></pre>
-        <li>Push your changes to your fork:</li>
-        <pre><code>git push origin feature/new-feature</code></pre>
-        <li>Submit a pull request on GitHub.</li>
-    </ol>
-    <h2>License</h2>
-    <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
 </body>
 </html>
 
